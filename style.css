@@ -1,1 +1,84 @@
-//Style Page 
+//Style Page
+h1 {
+  font-family: arial;
+  font-weight: normal;
+  color: blue;
+}
+
+h2 {
+  font-family: arial;
+  font-weight: normal;
+  color: blue;
+}
+
+h3 {
+  font-family: arial;
+  font-weight: normal;
+  color: blue;
+}
+
+h4 {
+  font-family: arial;
+  font-weight: normal;
+  color: blue;
+}
+
+h5 {
+  font-family: arial
+  font-weight: normal;
+  color: grey;
+}
+
+h6 {
+  color: SlateGray;
+  font-family: arial;
+  font-weight: normal;
+}
+
+p {
+  font-family: sans-serif;
+  font-weight: normal;
+  color: grey;
+}
+
+header {
+  background-color: DarkCyan;
+}
+
+body {
+  background: black;
+}
+
+table {
+  font-family: sans-serif;
+  width: 50%;
+  align-items: center;
+  background-color: DeepSkyBlue;
+  color: black
+}
+
+.info {
+  background-color: LightSeaGreen;
+  padding: 10px;
+  margin: 20px;
+}
+
+.vball {
+  background-color: MediumOrchid;
+  padding: 10px;
+  margin: 20px;
+}
+
+th {
+  height: 25px;
+  width: 50px;
+  color: lightblue;
+  background-color:
+}
+
+footer {
+  background-color: DodgerBlue;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
